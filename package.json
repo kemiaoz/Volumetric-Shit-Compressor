@@ -1,0 +1,10 @@
+{
+  "name": "volumetric-shit-compressor",
+  "version": "1.0.0",
+  "description": "Optional JS tooling used by volumetric_shit_compressor.py (terser for minification, esbuild for ES module bundling)",
+  "private": true,
+  "dependencies": {
+    "terser": "^5.31.0",
+    "esbuild": "^0.23.0"
+  }
+}

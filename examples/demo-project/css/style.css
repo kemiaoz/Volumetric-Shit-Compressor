@@ -1,0 +1,20 @@
+/* basic layout */
+body {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 60px;
+  background: #fafafa;
+}
+h1 {
+  color: #333;
+}
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+#count {
+  font-size: 32px;
+  font-weight: bold;
+  color: #e63946;
+}
