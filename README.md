@@ -93,7 +93,7 @@ open output.html   # macOS; Linux 用 xdg-open, Windows 直接双击
 
 ## Acknowledgements
 
-此项目仅供娱乐，写代码、测试、修 bug 包括大部分 readme 都由 Claude 完成……
+做小游戏学 web 学疯了的产物。此项目仅供娱乐，写代码、测试、修 bug 包括大部分 readme 都由 Claude 完成……
 
 ## License
 
